@@ -3,7 +3,11 @@
   최초 버전관리
 </head>
 <body>
+<ul>
 
+<li> gIt 이란? </li>
+
+</ul>
 
 
 
